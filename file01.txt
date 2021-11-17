@@ -1,4 +1,3 @@
-pppppppppppphangzhsjfhjdhf
-dsfdshfhgsdhfghi
-sdfhgshdgafhjdsgf
+设置count为2
+count=2
 
